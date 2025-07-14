@@ -25,7 +25,7 @@ Computer Science Graduate | Aspiring Software Developer | Eager to Build & Learn
 > Helps practice CRUD operations and UI design
 > 
 ## Tech Stack
-Languages     : Python, Java, JavaScript, HTML, CSS
-Frameworks    : React, Bootstrap, Flask (learning)
-Tools & Tech  : Git, GitHub, VS Code, Postman
-🗄Database      : MySQL, JSON
+Languages     : Python, Java, JavaScript, HTML, CSS  
+Frameworks    : React, Bootstrap, Flask (learning)  
+Tools & Tech  : Git, GitHub, VS Code, Postman  
+Database      : MySQL, JSON  
