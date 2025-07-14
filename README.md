@@ -23,7 +23,7 @@ Computer Science Graduate | Aspiring Software Developer | Eager to Build & Learn
 > React app to manage students—add, edit, and delete student records.  
 > Tech: React, Bootstrap  
 > Helps practice CRUD operations and UI design
-> 
+
 ## Tech Stack
 Languages     : Python, Java, JavaScript, HTML, CSS  
 Frameworks    : React, Bootstrap, Flask (learning)  
