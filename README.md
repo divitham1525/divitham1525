@@ -14,10 +14,10 @@ Computer Science Graduate | Aspiring Software Developer | Eager to Build & Learn
 > Tech: Python, OpenCV  
 > Use case: Privacy protection in shared photos
 
-### [VBRDS](https://github.com/divitham1525/VBRDS)
-> Backend Python system for Smart Health Monitoring using simulated vitals.  
+### [Vehicle Based Road Damage Detection](https://github.com/divitham1525/VBRDS)
+> Backend Python system for detection of road damages based on vehicle  
 >  Tech: Python, REST concepts  
->  Part of a Smart IoT-based Health Project
+>  Part of a real life problem solving concept.
 
 ### [Student Management App](https://github.com/divitham1525/Student-Management-react-app)
 > React app to manage students—add, edit, and delete student records.  
