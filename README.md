@@ -4,8 +4,8 @@ Computer Science Graduate | Aspiring Software Developer | Eager to Build & Learn
 
 ## About Me
 -  Passionate about building user-friendly web and Python-based applications
--  Currently learning: React, ServiceNow, Flask, and AI tools
--  Skilled in: Python,Java,  React, JavaScript, Bootstrap, Git, MySQL
+-  Currently learning: React, Django, and AI tools
+-  Skilled in: Python, React, JavaScript, Git, MySQL
 -  Interests: Smart Health Systems, Face Detection, and IoT-based solutions
    
 ## Featured Projects
@@ -25,7 +25,7 @@ Computer Science Graduate | Aspiring Software Developer | Eager to Build & Learn
 > Helps practice CRUD operations and UI design
 
 ## Tech Stack
-Languages     : Python, Java, JavaScript, HTML, CSS  
-Frameworks    : React, Bootstrap, Flask (learning)  
+Languages     : Python,JavaScript, HTML, CSS  
+Frameworks    : React,Django, Flask (learning)  
 Tools & Tech  : Git, GitHub, VS Code, Postman  
-Database      : MySQL, JSON  
+Database      : MySQL, SQL 
